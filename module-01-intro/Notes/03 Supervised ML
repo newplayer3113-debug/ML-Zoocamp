@@ -18,4 +18,4 @@ the goal is to train 'g(X)' so that if we give the features 'X' it will output a
                    Binary is the spam detection, it just returns 1 or 0, spam or no spam
                    Multiclass is if there is more than 2 categories, like training a model to clasify if a picture is a cat, a dog or a car
 3. Ranking: In a e-commerce website, there will usually be a model designed to give every single item iside a specific number and rank them from 0 to 1 
-            1 being I will like it the most. (Used in Google to find the best related searches)
+            1 being I will like it the most. (Used in Google to find the best related searches) 
